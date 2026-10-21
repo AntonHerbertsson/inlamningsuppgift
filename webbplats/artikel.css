@@ -1,0 +1,94 @@
+/* Artikelns bakgrund och huvudsakliga layout */
+.article-section {
+  background-color: #f6f7f4;
+  min-height: 80vh;
+  padding: 75px 20px 110px;
+}
+
+.article-container {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+/* Länken tillbaka till startsidan */
+.back-link {
+  display: inline-block;
+  color: #317b6e;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+/* Själva artikeln */
+#artikel {
+  background: #ffffff;
+  padding: 55px;
+  border-radius: 12px;
+  box-shadow: 0 10px 35px #101c3010;
+}
+
+#artikel h1 {
+  color: #101c30;
+  font-size: clamp(32px, 5vw, 48px);
+  line-height: 1.2;
+  letter-spacing: -1.5px;
+  margin-bottom: 25px;
+}
+
+#artikel h2 {
+  color: #101c30;
+  font-size: 27px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+#artikel p {
+  font-size: 17px;
+  line-height: 1.9;
+  color: #526275;
+  margin-bottom: 20px;
+}
+
+#artikel img {
+  width: 100%;
+  border-radius: 8px;
+  margin: 25px 0;
+}
+
+#artikel .article-intro {
+  font-size: 20px;
+  color: #35475a;
+  font-weight: 500;
+}
+
+#artikel .article-category {
+  display: block;
+  color: #317b6e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 18px;
+}
+
+/* Gör artikelsidan mobilanpassad */
+@media (max-width: 768px) {
+  .article-section {
+    padding: 40px 15px 70px;
+  }
+
+  #artikel {
+    padding: 25px;
+  }
+
+  #artikel h2 {
+    font-size: 23px;
+  }
+
+  #artikel p {
+    font-size: 16px;
+  }
+}

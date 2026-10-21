@@ -1,0 +1,23 @@
+{
+  "titel": "Vad är digital marknadsföring?",
+  "kategori": "DIGITAL MARKNADSFÖRING",
+  "ingress": "Digital marknadsföring hjälper företag att synas på internet.",
+  "bild": {
+    "src": "images/google-ads-for-smaforetag.png",
+    "alt": "Illustration av en småföretagare vid en dator med sökresultat och kundkontakter"
+  },
+  "sektioner": [
+    {
+      "rubrik": "Vad är digital marknadsföring?",
+      "text": "Digital marknadsföring innebär att företag använder internet för att marknadsföra produkter och tjänster."
+    },
+    {
+      "rubrik": "Varför är det viktigt?",
+      "text": "Det hjälper företag att nå fler kunder och skapa bättre resultat."
+    },
+    {
+      "rubrik": "Vilka kanaler används?",
+      "text": "Vanliga kanaler är Google, sociala medier och e-post."
+    }
+  ]
+}

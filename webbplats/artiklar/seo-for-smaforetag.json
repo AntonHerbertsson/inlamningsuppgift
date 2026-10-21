@@ -1,0 +1,55 @@
+{
+  "titel": "SEO för småföretag – en praktisk guide till bättre synlighet",
+  "kategori": "SEO",
+  "ingress": "SEO hjälper småföretag att göra webbplatsen lättare att hitta och förstå via sökmotorer. Börja med kundernas frågor, tydliga tjänstesidor och en fungerande webbplats. Här får du en arbetsgång för lokal synlighet, innehåll och uppföljning utan löften om snabba topplaceringar.",
+  "bild": {
+    "src": "images/seo-for-smaforetag.svg",
+    "alt": "Diagram med fyra delar av SEO för småföretag: kundernas frågor, tydligt innehåll, lokal synlighet och uppföljning, samlade kring företagets webbplats."
+  },
+  "sektioner": [
+    {
+      "rubrik": "Vad är SEO och varför är det relevant?",
+      "text": "SEO står för sökmotoroptimering och handlar om att hjälpa sökmotorer att förstå innehållet och människor att hitta rätt webbplats. För ett småföretag är ett användbart mål att nå personer vars behov passar företagets erbjudande. Det kan vara någon som söker efter en tjänst i närområdet eller jämför produkter inför ett köp. SEO ger ingen garanti för indexering eller en viss placering i Google."
+    },
+    {
+      "rubrik": "1. Börja med kundernas behov och sökningar",
+      "text": "Skriv ned vad kunder brukar fråga före ett köp. Vilken tjänst behöver de, vad vill de veta om priset och vilka problem försöker de lösa? För en cykelverkstad kan ämnen som cykelservice i Västerås och vad ingår i en cykelservice vara värda att undersöka. Exemplen är idéer, inte verifierade uppgifter om sökvolym. Prioritera sökningar som passar erbjudandet och skilj mellan den som söker information och den som vill boka."
+    },
+    {
+      "rubrik": "2. Gör varje viktig tjänstesida användbar",
+      "text": "Välj först de sidor som har tydlig koppling till affären. Förklara vem tjänsten passar, vad som ingår, var den erbjuds och hur kunden tar nästa steg. Besvara frågor som annars återkommer i telefon eller mejl. Använd egna erfarenheter och konkreta exempel som ni kan stå för. Om flera tjänster har olika innehåll och kundbehov kan separata sidor göra erbjudandet tydligare. Undvik att skapa många nästan identiska sidor enbart för olika sökfraser."
+    },
+    {
+      "rubrik": "3. Skriv tydliga sidtitlar och beskrivningar",
+      "text": "Ge varje sida en beskrivande titel som stämmer med innehållet. Cykelservice i Västerås | Företagsnamn är ett exempel för en relevant tjänstesida. Undvik att fylla titeln med upprepade sökord. Skriv också en kort, specifik metabeskrivning som hjälper läsaren att förstå sidan. Google skapar sökresultatens rubriker och textutdrag automatiskt och kan använda annat innehåll än den titel eller beskrivning du har angett. Se därför till att även sidans synliga rubrik och text är tydliga."
+    },
+    {
+      "rubrik": "4. Hjälp besökare att hitta mellan sidorna",
+      "text": "Länka från relevanta guider till tjänster och från tjänstesidor till information som hjälper kunden vidare. Använd länktexter som beskriver målet, exempelvis se vad som ingår i cykelservice. Gör navigationen begriplig och kontrollera att viktiga länkar fungerar. Bilder bör vara relevanta, och informativa bilder behöver alt-text som beskriver vad de visar i sitt sammanhang. Prioritera läsbarhet och tydlighet framför att upprepa samma sökord överallt."
+    },
+    {
+      "rubrik": "5. Kontrollera att Google kan komma åt innehållet",
+      "text": "En sida behöver kunna upptäckas och behandlas av sökmotorn för att få möjlighet att visas. I Google Search Consoles granskningsverktyg för webbadresser kan du kontrollera information om den indexerade versionen och testa en aktuell sida. Verktyget kan hjälpa dig att undersöka indexeringsproblem och se renderat innehåll. Ett godkänt test är däremot ingen garanti för att sidan visas i sökresultaten. Ta hjälp vid behov om centralt innehåll saknas, åtkomst blockeras eller viktiga sidor oavsiktligt har märkts med noindex."
+    },
+    {
+      "rubrik": "6. Arbeta med lokal SEO där det är relevant",
+      "text": "För företag som kan ha en Google Företagsprofil är korrekta företagsuppgifter en viktig del av den lokala närvaron. Verifiera profilen och håll kategori, kontaktuppgifter och öppettider aktuella. Visa en besöksadress där kunder faktiskt kan besöka verksamheten och följ profilens regler för din företagstyp. Lägg till relevanta bilder och svara sakligt på recensioner. Google beskriver relevans, avstånd och popularitet som centrala faktorer för lokala resultat. Det går inte att betala Google för en bättre lokal ranking."
+    },
+    {
+      "rubrik": "7. Följ både synlighet och kundkontakter",
+      "text": "Search Consoles resultatrapport visar bland annat klick, exponeringar, klickfrekvens och genomsnittlig position. Använd rapporten för att undersöka vilka sidor och rapporterade sökfrågor som ger synlighet. Jämför relevanta tidsperioder och tänk på att efterfrågan kan vara säsongsberoende. Komplettera med bokningar, relevanta förfrågningar och försäljning från företagets egen uppföljning. Fler klick behöver inte betyda fler kunder, och en genomsnittlig position är inget fast placeringsnummer för alla som söker."
+    },
+    {
+      "rubrik": "Hur lång tid tar SEO och vad kostar det?",
+      "text": "Det finns ingen bestämd tidsplan som gäller alla webbplatser. Google beskriver att ändringar kan ta från några timmar till flera månader att få effekt i sökresultaten. Avsätt därför tid för uppföljning och undvik att bedöma arbetet efter enstaka dagar. Kostnaden beror på omfattning, kompetensbehov och om ni gör arbetet själva eller anlitar hjälp. Ett praktiskt första steg är att förbättra en viktig tjänstesida, kontrollera åtkomsten och dokumentera nuläget innan ni utökar arbetet."
+    },
+    {
+      "rubrik": "Sammanfattning: prioritera det som hjälper kunden",
+      "text": "Börja med relevanta kundfrågor och de sidor som beskriver företagets viktigaste erbjudanden. Gör innehåll, titlar och kontaktvägar tydliga, kontrollera indexeringsförutsättningarna och håll eventuell företagsprofil aktuell. Följ sedan synlighet tillsammans med kundkontakter och försäljning. Arbeta stegvis och använd resultaten för att välja nästa förbättring."
+    },
+    {
+      "rubrik": "Källor och vidare läsning",
+      "text": "Faktakontrollerat den 21 oktober 2026 mot Googles dokumentation. Grunder och tid till effekt: https://developers.google.com/search/docs/fundamentals/seo-starter-guide . Titlar: https://developers.google.com/search/docs/appearance/title-link . Textutdrag och metabeskrivningar: https://developers.google.com/search/docs/appearance/snippet . Granskning och indexering: https://support.google.com/webmasters/answer/9012289?hl=sv . Lokal ranking: https://support.google.com/business/answer/7091?hl=sv . Resultatrapporten: https://support.google.com/webmasters/answer/7576553?hl=sv . Prioriteringar, arbetsgång och sökfrasexempel är redaktionella råd, inte prognoser eller resultatlöften."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "titel": "Google Ads för småföretag – kom igång med tydliga mål",
+  "kategori": "ANNONSERING",
+  "ingress": "Google Ads kan hjälpa småföretag att nå personer som söker efter deras produkter eller tjänster. Här får du en praktisk guide till sökannonser, budget och uppföljning, så att du kan börja avgränsat och bedöma om annonseringen ger affärer.",
+  "bild": {
+    "src": "images/google-ads-for-smaforetag.png",
+    "alt": "Illustration av en småföretagare vid en bärbar dator, med en butik, söksymboler och kundförfrågningar."
+  },
+  "sektioner": [
+    {
+      "rubrik": "Vad är Google Ads och när passar det?",
+      "text": "Google Ads är Googles plattform för annonsering. Den här guiden fokuserar på sökannonser som kan visas när någon söker efter det du erbjuder. För ett mindre företag är sökannonser värda att undersöka när kunder redan söker efter en tydlig tjänst eller produkt och företaget kan ta hand om nya förfrågningar. Annonsutrymme innebär däremot ingen garanti för försäljning. Börja med ett erbjudande där du känner till marginalen och har en fungerande sida att skicka besökaren till."
+    },
+    {
+      "rubrik": "Bestäm vad annonseringen ska leda till",
+      "text": "Välj ett tydligt affärsmål före kampanjstart: exempelvis bokade besök, relevanta offertförfrågningar eller genomförda köp. Bestäm också hur mycket en ny kund får kosta. Ett inskickat formulär är inte samma sak som en betalande kund, så följ gärna förfrågningarna hela vägen till avslutad affär. Om du säljer flera tjänster kan en avgränsad första kampanj göra det lättare att se vilket erbjudande som fungerar."
+    },
+    {
+      "rubrik": "Välj sökord utifrån kundens behov",
+      "text": "Utgå från vad en kund kan söka efter när behovet är konkret, exempelvis rörmokare i Uppsala eller boka cykelservice. Det är exempel på sökord, inte uppgifter om sökvolym eller pris. Samla närliggande sökord i annonsgrupper med annonser som passar samma behov. Google Ads använder bred matchning, frasmatchning och exakt matchning för att styra hur sökningar kan matchas. Även exakt matchning kan omfatta sökningar med samma innebörd eller avsikt; den är inte begränsad till identisk stavning."
+    },
+    {
+      "rubrik": "Minska irrelevanta klick med negativa sökord",
+      "text": "Gå regelbundet igenom söktermsrapporten för att se vilka rapporterade sökningar som har utlöst annonserna. Ett företag som säljer reparationer kan exempelvis behöva utesluta sökningar om jobb eller utbildning, om sådana erbjudanden saknas. Negativa sökord kan hindra annonser från att visas vid oönskade sökningar. Kontrollera matchningstypen innan du lägger till dem, så att du inte råkar blockera relevanta kunder. Negativ matchning fungerar annorlunda än matchningen för vanliga sökord."
+    },
+    {
+      "rubrik": "Anpassa geografisk inriktning till verksamheten",
+      "text": "Välj platser där du faktiskt kan leverera eller ta emot kunder. Kontrollera även platsalternativen: standardalternativet kan omfatta både personer i området och personer som har visat intresse för det. Om du bara vill nå personer som sannolikt befinner sig i eller regelbundet vistas i området kan alternativet Närvaro vara mer lämpligt. En hotellverksamhet kan däremot vilja nå resenärer som planerar ett besök från andra orter. Platsinriktningen bygger på signaler och är inte helt exakt."
+    },
+    {
+      "rubrik": "Sätt en budget som du kan utvärdera",
+      "text": "Bestäm hur stor annonskostnad företaget har råd att testa och håll eventuell byråkostnad separat. Med en genomsnittlig daglig budget är beloppet inte ett fast tak för varje enskild dag. För de flesta kampanjer kan den debiterbara dagskostnaden bli upp till två gånger den genomsnittliga dagsbudgeten, medan månadsgränsen normalt är 30,4 gånger dagsbudgeten. Vid oförändrad budget på 100 kronor per dag under en hel månad motsvarar det 3 040 kronor i månadsgräns. Detta är ett räkneexempel, inte en rekommenderad budget eller prognos. Budgetändringar och särskilda kampanjtyper kan påverka gränserna."
+    },
+    {
+      "rubrik": "Låt annons och landningssida ge samma löfte",
+      "text": "Skriv tydligt vilken tjänst du erbjuder, var den finns och vad besökaren kan göra härnäst. Använd bara priser, fördelar och löften som du kan stå för. Skicka besökaren till en sida som handlar om samma erbjudande som annonsen. En sida för cykelservice bör exempelvis förklara vad som ingår och hur bokningen går till. Kontrollera att sidan fungerar på mobilen och att kontaktvägar och formulär är enkla att använda."
+    },
+    {
+      "rubrik": "Mät förfrågningar och köp före större satsningar",
+      "text": "Konverteringsmätning hjälper dig att koppla annonsinteraktioner till värdefulla handlingar, exempelvis köp, formulär eller telefonsamtal. Välj relevanta konverteringar och testa att mätningen fungerar utan att samma händelse räknas flera gånger av misstag. Ett klick på en telefonknapp visar inte i sig att ett samtal besvarades eller ledde till en affär. Google har olika lösningar för samtalsmätning, med olika förutsättningar. Ge tydlig information om datainsamlingen och hantera samtycke där det krävs."
+    },
+    {
+      "rubrik": "Följ upp kostnaden per relevant resultat",
+      "text": "Följ annonskostnad, relevanta förfrågningar och faktiska kunder tillsammans. Om 2 000 kronor i annonskostnad ger tio relevanta förfrågningar blir annonskostnaden 200 kronor per förfrågan. Om två av dem blir kunder blir annonskostnaden 1 000 kronor per kund. Siffrorna är endast ett räkneexempel och omfattar inte andra kostnader. Jämför med vad affärerna lämnar kvar efter kostnader. Utvärdera också kvaliteten på förfrågningarna och ge sena köp eller bokningar tid att registreras innan du drar slutsatser."
+    },
+    {
+      "rubrik": "Sammanfattning: börja avgränsat och förbättra stegvis",
+      "text": "Börja med ett tydligt erbjudande, ett avgränsat område och ett mätbart affärsmål. Välj relevanta sökord, granska söktermer och se till att annonsens löfte stämmer med landningssidan. Kontrollera budget och konverteringsmätning före start. Utöka först när du har underlag för att bedöma om annonseringen ger kunder till en kostnad som företaget klarar."
+    },
+    {
+      "rubrik": "Källor och vidare läsning",
+      "text": "Faktakontrollerat den 21 oktober 2026 mot Google Ads Hjälp. Sökordsmatchning: https://support.google.com/google-ads/answer/14996023?hl=sv . Söktermsrapporten: https://support.google.com/google-ads/answer/2472708?hl=sv . Platsalternativ: https://support.google.com/google-ads/answer/1722038?hl=sv . Genomsnittlig daglig budget: https://support.google.com/google-ads/answer/6385083?hl=sv . Konverteringsmätning och information om datainsamling: https://support.google.com/google-ads/answer/6308?hl=sv . Samtalsmätning: https://support.google.com/google-ads/answer/6100664?hl=sv . Råd om arbetsordning och räkneexempel är redaktionella, inte resultatlöften från Google."
+    }
+  ]
+}

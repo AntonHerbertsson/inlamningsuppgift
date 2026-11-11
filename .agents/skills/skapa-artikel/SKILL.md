@@ -59,41 +59,27 @@ Regler:
 
 ## Steg 4 – Skapa JSON
 
-Läs först:
-webbplats/artiklar/test-artikel.json
+Följ formatet i `webbplats/artiklar/test-artikel.json`.
+Använd `title` för artikelns titel och `content` för listan med block.
 
-Följ exakt samma JSON-format.
-
-Använd fälten:
-
-- titel
-- kategori
-- ingress
-- bild
-  - src
-  - alt
-- sektioner
-  - rubrik
-  - text
-
-Kontrollera att JSON är giltig.
+- Använd `h1` för huvudrubriken, `p` för ingress och stycken och
+  `h2` eller `h3` för underrubriker. Lägg texten i fältet `text`.
+- Om du använder `ul` eller `ol`, lägg listpunkterna i `items`.
+- Lägg in minst ett bildblock enligt steg 5.
 
 ## Steg 5 – Skapa bild
 
-Skapa en originalbild om bildverktyg finns.
-
-Spara bilden i:
-webbplats/images/
-
-Lägg in rätt sökväg i JSON.
+Lägg in minst ett bildblock i artikelns `content`.
+Bildblocket ska ha `"type": "img"`, en lokal bildsökväg i `src`
+och en beskrivande alt-text i `alt`.
 
 Exempel:
-"src": "images/seo-guide.svg"
+{ "type": "img", "src": "images/seo-guide.svg", "alt": "Diagram över hur en webbplats hittas via en sökmotor" }
 
-Skriv alltid en relevant alt-text.
-
-Om ingen bild kan skapas:
-informera användaren.
+Använd en relevant bild som finns i `webbplats/images/` och som du får använda,
+eller skapa en ny bild och spara den där. Byt sökvägen och alt-texten i
+exemplet så att de stämmer med bilden. Om ingen lämplig bild finns,
+be användaren om en innan artikeln markeras som klar.
 
 ## Steg 6 – Spara
 
